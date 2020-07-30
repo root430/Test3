@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "D:\\Anaconda3\\envs\\py37\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    //"python.terminal.activateEnvironment": false
+    //"python.linting.enabled": false
+}
